@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in automation engineering degree
-- 🌱 I’m currently learning C++ with gamedev 
+- 🔭 Fazendo faculdade de Engenharia de automação
+- 🌱 Atualmente aprendendo sobre c++ e gamedev 
 <div>
     <a href= "https://github.com/florybal">
      <img src="https://github-readme-stats.vercel.app/api?username=florybal&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
